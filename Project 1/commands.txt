@@ -1,0 +1,5 @@
+cd Git_Stuff
+git clone https://github.com/voramyoon/Computational-Social-Science-Projects.git
+mkdir "Project 1"
+touch commands.txt
+nano commands.txt
